@@ -90,6 +90,18 @@ Predictive model to estimate second-hand BMW prices from vehicle characteristics
 
 ---
 
+### 🖼️ CIFAR-100 Image Classification — Deep Vision
+> Deep Learning · Transfer Learning vs. CNN from scratch · TensorFlow/Keras
+
+Image classification project on the CIFAR-100 dataset (100 classes, 60k images). I compare Transfer Learning + Fine-Tuning strategies (ConvNeXtTiny, EfficientNetB0) against a CNN designed from scratch. The main notebook, results, and code are available in the project repository.
+
+`TensorFlow` `Keras` `Data Augmentation` `ConvNeXt` `EfficientNet`
+
+🔗 [View project](https://github.com/christianirshool-glitch/My-projects/tree/main/cifar100-image-classification) · 🔗 Original repository: [cifar100-image-classification](https://github.com/christianirshool-glitch/cifar100-image-classification)
+
+
+---
+
 ### 🌸 Iris Classification — Supervised vs. Unsupervised
 > SVM · K-Means · Comparative Analysis
 
